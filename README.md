@@ -9,6 +9,7 @@ The pytorch implementation for our ECCV2022 paper "Learning Dynamic Facial Radia
 - Pytorch3d 0.5.0
 - torchvision 0.10.0
 
+
 For more details, please refer to the `requirements.txt`. We conduct the experiments with a 24G RTX3090.
 
 - Download `79999_iter.pth` from [here](https://github.com/sstzal/DFRF/releases/tag/file) to `data_util/face_parsing`
